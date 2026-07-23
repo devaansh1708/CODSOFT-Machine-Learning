@@ -1,4 +1,4 @@
-# CODSOFT-Ma# CODSOFT Machine Learning Internship
+# CODSOFT Machine Learning Internship
 
 Repository containing solutions for the Machine Learning internship tasks at CodSoft.
 
